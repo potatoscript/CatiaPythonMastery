@@ -1,8 +1,6 @@
 # CatiaPythonMastery
 CATIA V5とPythonを使って、図面ビューから投影面を作成する方法を学びました。
 
-参考にした動画は[こちら](https://youtu.be/ya35YTEf580?si=2kOOUqb_gIMs5f3C)です。
-
 #### 使用したコードとその詳細説明
 
 ```python
